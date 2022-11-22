@@ -1,0 +1,13 @@
+line follower bolt/battery cover/pcb mount
+11xcountersunk M2x0.4-6
+
+scrapper
+2x 2x0.4-20
+
+
+spring pin
+3mm dia
+
+craddle mount
+4x sockethead M2x0.4-6
+
